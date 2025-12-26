@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ocean-acidification-analysis"
+description = "Analysis of CO2 emissions and Aragonite concentration using LV ODEs."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "PyCO2SYS",
+    "scipy"
+]
+
+[tool.setuptools]
+packages = ["src"]
