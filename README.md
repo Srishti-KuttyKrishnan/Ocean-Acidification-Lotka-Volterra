@@ -2,7 +2,7 @@
 
 ### Contribution
 This project was completed collaboratively with Sumedhaa Ruhil as part of a second-year Engineering Science course at the University of Toronto. 
-I was primarily responsible for numerical analysis, result interpretation, and technical report writing, and contributed to the system modelling and numerical implementation.
+I was primarily responsible for data acquisition and normalization, numerical analysis, result interpretation, and technical report writing, and contributed to the system modelling and numerical implementation.
 
 ## 1. Project Overview
 
