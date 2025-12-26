@@ -1,5 +1,9 @@
 # Modelling the Effect of Business Cycles on Ocean Acidification
 
+### Contribution
+This project was completed collaboratively as part of a second-year Engineering Science course at the University of Toronto.
+I was primarily responsible for system modelling, numerical analysis, result interpretation, and technical report writing, and contributed to the numerical implementation.
+
 ## 1. Project Overview
 
 The aim of this project is to formulate a Lotka-Volterra (LV) system with non-constant coefficients as a more accurate way to describe the interdependence between $CO_2$ levels and ocean acidification, by incorporating the impact of business cycles on carbon emissions.
