@@ -1,8 +1,8 @@
 # Modelling the Effect of Business Cycles on Ocean Acidification
 
 ### Contribution
-This project was completed collaboratively as part of a second-year Engineering Science course at the University of Toronto.
-I was primarily responsible for system modelling, numerical analysis, result interpretation, and technical report writing, and contributed to the numerical implementation.
+This project was completed collaboratively with Sumedhaa Ruhil as part of a second-year Engineering Science course at the University of Toronto. 
+I was primarily responsible for numerical analysis, result interpretation, and technical report writing, and contributed to the system modelling and numerical implementation.
 
 ## 1. Project Overview
 
